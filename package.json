@@ -4,7 +4,8 @@
   "description": "Innlevering 1",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon server.js --ignore Components"
   },
   "author": "Asle Kinner�d",
   "license": "ISC",
