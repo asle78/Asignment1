@@ -40,7 +40,7 @@ app.get('/', function (req, res) {
 });
 
 app.listen(5000);
-console.log("Server running on port 4000");
+console.log("Server running on port 5000");
 
 function makeObject(arr) {
  var rv = {};
